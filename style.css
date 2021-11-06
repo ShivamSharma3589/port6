@@ -468,9 +468,9 @@ footer{
 
 
 @media (max-width: 700px){
-    /* html{
+    html{
         font-size: 14px;
-    } */
+    }
     #jump-to-top{
         bottom: 7vh;
     }
@@ -562,6 +562,13 @@ footer{
         border-radius: 50%;
         margin: 0 auto;
         width: 40vw;
+    }
+    .font-1{
+        font-size: 1.7rem;
+    }
+    
+    .font-2{
+        font-size: 2.4rem;
     }
     section{
         padding-top: 2rem !important;
